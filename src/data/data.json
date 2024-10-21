@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Watch On",
+    "paragraph": "Smarter Surveillance, Enhanced Security. Revolutionize safety with advanced AI-powered monitoring, person recognition, and real-time insights."
+  },
+  "About": {
+    "paragraph": "Modern society's security challenges require intelligent surveillance systems capable of efficiently monitoring and analyzing vast video data. This project is part of an effort to develop a comprehensive surveillance system integrating advanced technologies for enhanced security. It includes modules for person identification, age and gender prediction, and anomaly detection, creating a multilayered approach to monitoring. The person identification module combines face recognition and gait analysis, while the age and gender prediction module provides demographic insights. Anomaly detection flags unusual activities for potential security threats. This report focuses on the person path tracking analysis and change detection modules, essential for understanding movement patterns and identifying significant scene changes that could signal security risks.",
+    "Why": [
+      "Enhanced security",
+      "Efficient monitoring",
+      "Accurate identification",
+      "Demographic insights"
+    ],
+    "Why2": [
+      "Anomaly detection",
+      "Path tracking",
+      "Change detection",
+      "Proactive response"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Proposal presentation",
+      "date": "2024-02-21",
+      "description": ""
+    },
+    {
+      "title": "Progress Presentation I",
+      "date": "2024-05-06",
+      "description": ""
+    },
+    {
+      "title": "Progress Presentation II",
+      "date": "2024-09-11",
+      "description": ""
+    },
+    {
+      "title": "Final presentation & VIVA",
+      "date": "2024-10-18",
+      "description": ""
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fas fa-file-alt",
+      "name": "Project Charter",
+      "text": "The document gives the information regarding the statement of scope, objectives overview, an outline of scope, an approximate schedule and people who are participating in a project"
+    },
+    {
+      "icon": "fas fa-file-signature",
+      "name": "Project Proposal",
+      "text": "The document contains details like goals, objectives, important dates, milestones and requirements needed to start and complete the project."
+    },
+    {
+      "icon": "fas fa-book-open",
+      "name": "Research Paper",
+      "text": "A research paper contains writing that provides Literature review, Research methodology, analysis, interpretation, and argument based on in-depth independent research"
+    },
+    {
+      "icon": "fas fa-file",
+      "name": "Final Thesis",
+      "text": "The document contains the Proposed solution to the research question, which was finalized after completing the research"
+    },
+    {
+      "icon": "fas fa-tasks",
+      "name": "Status Document",
+      "text": "The document describes the progress of the project within the specific time period and compares it against the project plan checklist"
+    },
+    {
+      "icon": "fas fa-book",
+      "name": "Research logbook",
+      "text": "The document describes the progress of the project within the specific time period and compares it against the project plan checklist"
+    },
+    {
+      "icon": "fas fa-lightbulb",
+      "name": "Proposal Presentation",
+      "text": "Initial Presentation with Overview of Research Problem"
+    },
+    {
+      "icon": "fas fa-tasks",
+      "name": "Progress Presentation I",
+      "text": "50% Project Completion"
+    },
+    {
+      "icon": "fas fa-chart-line",
+      "name": "Progress Presentation II",
+      "text": "90% Project Completion"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Lakmini.jpeg",
+      "name": "DR. Lakmini Abeywardana",
+      "job": "Co-Supervisor"
+    },
+    {
+      "img": "img/team/Darshana.jpeg",
+      "name": "DR. Dharshana Kasthuriratne",
+      "job": "Co-Supervisor"
+    },
+    {
+      "img": "img/team/Siyumi.jpeg",
+      "name": "Siyumi Pathirana",
+      "job": "Researcher"
+    },
+    {
+      "img": "img/team/Paboda.jpeg",
+      "name": "Paboda Ratnayake",
+      "job": "Researcher"
+    },
+    {
+      "img": "img/team/Kavinda.jpeg",
+      "name": "Kavinda Sandarwan",
+      "job": "Researcher"
+    },
+    {
+      "img": "img/team/Shafa.jpeg",
+      "name": "Shafa Bishihafi",
+      "job": "Researcher"
+    }
+  ],
+  "Contact": {
+    "address": "SLIIT Malabe Campus, New Kandy Rd, Malabe",
+    "phone": "+94 11 754 4801",
+    "email": "info@sliit.lk",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-language",
+      "title": "Face and Gait Recognition",
+      "text": "Implement face detection, recognition, and gait analysis models for person identification in surveillance footage, utilizing facial features and walking patterns. The system dynamically selects the identification method based on the quality of the available data."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Predictive Age and Gender Recognition",
+      "text": "Develop models to accurately detect age and reliably identify gender from surveillance footage. The web application processes uploaded videos and displays the predicted age and gender of individuals."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Anomaly Detection",
+      "text": "Implement a system to detect anomalies in surveillance footage using both supervised and unsupervised learning models. The supervised model identifies predefined anomalies like weapons, fire, or hidden faces, while the unsupervised model detects rare, previously unseen anomalies."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "title": "Path tracking & Change Detection",
+      "text": "Implement a system to detect people and objects, analyze their movements, and generate movement analysis. The system also triggers alerts based on detected movement patterns."
+    }
+  ]
+}
